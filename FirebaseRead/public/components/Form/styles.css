@@ -1,0 +1,58 @@
+article {
+    background-color: #15172b;
+    border-radius: 20px;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 400px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: 0px;
+}
+
+h2 {
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+label {
+    font-size: 16px;
+    margin-top: 30px;
+
+}
+
+input, textarea {
+    background-color: #303245;
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box;
+    height: 50px;
+    outline: 0;
+    padding: 4px 20px 0;
+    width: 100%;
+    margin: 16px 0;
+}
+
+textarea {
+    height: 100px;
+}
+
+button {
+    background-color: #08d;
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box;
+    color: #eee;
+    cursor: pointer;
+    font-size: 18px;
+    height: 50px;
+    margin-top: 38px;
+    text-align: center;
+    width: 100%;
+  }
+
+button:active {
+    background-color: #06b;
+  }
